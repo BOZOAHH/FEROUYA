@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or support, please contact us through the [GitHub Issues](https://github.com/yourusername/forge-emulator-ouya/issues) page.
+For any questions or support, please contact us through the [GitHub Issues](https://github.com/BOZOAHH/FEROUYA/issues) page.
 
 Enjoy gaming on your OUYA with Forge Emulator!
 
