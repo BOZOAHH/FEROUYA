@@ -1,7 +1,7 @@
 # FEROUYA
 # Forge Emulator Port for OUYA
 
-This repository contains the port of Forge Emulator, a fork of Dolphin, to 32-bit and 64-bit Android devices, specifically targeting the OUYA gaming console.
+This repository contains the port of Forge Emulator, a fork of Dolphin, for 32-bit and 64-bit Android devices, specifically being ported to the OUYA gaming console.
 
 ## Overview
 
