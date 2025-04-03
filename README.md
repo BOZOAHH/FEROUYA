@@ -3,9 +3,10 @@
 
 This repository contains the port of Forge Emulator, a fork of Dolphin, for 32-bit and 64-bit Android devices, specifically being ported to the OUYA gaming console.
 
+
 ## Overview
 
-Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is designed to run on Android devices. This project aims to bring the power of Forge Emulator to the OUYA, an Android-based gaming console. This is a revolutionary effort to bring high-quality emulation to the OUYA platform, allowing users to enjoy their favorite GameCube and Wii games on this unique device.
+Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is designed to run on Android devices. This project aims to bring the power of Forge Emulator to the OUYA, an Android-based gam[...]
 
 ## Features
 
@@ -17,7 +18,7 @@ Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is desi
 
 ## Early Access Notice
 
-Please note that this project is in very early access. It is not yet fully optimized for the original OUYA hardware without hardware modification. As such, performance may not be optimal out of the box. To achieve better performance, please apply the following configurations in the settings:
+Please note that this project is in very early access. It is not yet fully optimized for the original OUYA hardware without hardware modification. As such, performance may not be optimal out of the bo[...]
 
 ### Settings Configuration
 
@@ -56,6 +57,7 @@ To install the Forge Emulator on your OUYA device, follow these steps:
 
 - **Loading Games**: To load a game, simply navigate to the game file within the emulator and select it to start playing.
 - **Controller Configuration**: Configure your OUYA controller or on-screen controls through the settings menu for the best gaming experience.
+- ![Controller Tutorial.](https://github.com/BOZOAHH/FEROUYA/blob/main/bandicam%202025-04-02%2018-58-37-735%20(online-video-cutter.com).gif)
 
 ## Contributing
 
