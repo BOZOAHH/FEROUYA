@@ -5,7 +5,7 @@ This repository contains the port of Forge Emulator, a fork of Dolphin, for 32-b
 
 ## Overview
 
-Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is designed to run on Android devices. This project aims to bring the power of Forge Emulator to the OUYA, an Android-based gaming console. By leveraging the capabilities of both Forge and the OUYA, we provide an enhanced gaming experience for retro game enthusiasts.
+Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is designed to run on Android devices. This project aims to bring the power of Forge Emulator to the OUYA, an Android-based gaming console. This is a revolutionary effort to bring high-quality emulation to the OUYA platform, allowing users to enjoy their favorite GameCube and Wii games on this unique device.
 
 ## Features
 
@@ -14,6 +14,34 @@ Forge Emulator is a highly optimized fork of the Dolphin Emulator, which is desi
 - **High Compatibility**: Supports a wide range of GameCube and Wii games.
 - **Customizable Controls**: Offers customizable on-screen controls and OUYA controller support.
 - **Enhanced Graphics**: Includes various graphical enhancements and options for better visual quality.
+
+## Early Access Notice
+
+Please note that this project is in very early access. It is not yet fully optimized for the original OUYA hardware without hardware modification. As such, performance may not be optimal out of the box. To achieve better performance, please apply the following configurations in the settings:
+
+### Settings Configuration
+
+**CPU Section:**
+- Dual Core: Enabled
+- CPU Core: JIT ARM Recompiler
+
+**Controller Settings:**
+1. Go to GameCube Controller Bindings.
+2. Choose Controller 1-4 depending on how many controllers are connected (e.g., do controller 1 for controller 1, do controller 2 for controller 2).
+3. Click enable and modify the configuration to your liking.
+
+**Video:**
+- Backend: OpenGL ES
+- Show FPS: On
+
+**Enhancements:**
+- Scaled EFB Copy: Enabled
+
+**Hacks:**
+- Ignore Format Changes: Enabled
+- Fast Depth Calculation: Enabled
+
+With these settings, you should experience improved performance and a better gaming experience.
 
 ## Installation
 
@@ -48,4 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or support, please contact us through the [GitHub Issues](https://github.com/BOZOAHH/FEROUYA/issues) page.
 
 Enjoy gaming on your OUYA with Forge Emulator!
-
